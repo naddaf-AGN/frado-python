@@ -4,8 +4,9 @@
 
 File: `frado/k_average_tot.dat`
 
-The dust-opacity data used by FRADO Python were provided
-by external collaborators for scientific research.
+The dust-opacity data were provided by scientific
+collaborators and are redistributed with the permission
+of Ryszard Szczerba.
 
 The relevant scientific methodology and opacity calculations
 are described in:
