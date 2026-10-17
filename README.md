@@ -109,7 +109,7 @@ archived on Zenodo:
 
 - [FRADO project website](https://sites.google.com/view/naddaf/frado)
 - [FRADO simulation dataset](https://doi.org/10.5281/zenodo.23268523)
-- 
+
 ## Documentation
 
 - [Google Colab quickstart](docs/QUICKSTART.md)
