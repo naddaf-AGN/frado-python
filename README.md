@@ -90,4 +90,4 @@ Please cite **FRADO Python** using [`CITATION.cff`](CITATION.cff) together with 
 
 **Author:** Mohammad Hassan Naddaf · [ORCID](https://orcid.org/0000-0002-7604-9594).
 
-**Licensing:** A software license has not yet been assigned; public redistribution awaits confirmation of rights for the bundled opacity and reference data.
+**License:** FRADO Python is distributed under the BSD 3-Clause License (see [LICENSE](./LICENSE)). Third-party dust-opacity data are excluded from this license and are acknowledged separately.
