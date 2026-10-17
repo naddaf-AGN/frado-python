@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-7604-9594"
 repository-code: "https://github.com/naddaf-AGN/frado-python"
 version: "1.0.0"
+license: BSD-3-Clause
 keywords:
   - astrophysics
   - active galactic nuclei
