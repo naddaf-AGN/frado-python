@@ -100,8 +100,16 @@ the foundational 2021 paper.
 
 Additional scientific references should be cited as appropriate to the application.
 
-The software DOI will be provided upon its first official Zenodo release.
+The official FRADO Python v1.0.0 release is permanently
+archived on Zenodo:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442013.svg)](https://doi.org/10.5281/zenodo.23442013)
+
+## Related resources
+
+- [FRADO project website](https://sites.google.com/view/naddaf/frado)
+- [FRADO simulation dataset](https://doi.org/10.5281/zenodo.23268523)
+- 
 ## Documentation
 
 - [Google Colab quickstart](docs/QUICKSTART.md)
