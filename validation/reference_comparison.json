@@ -1,0 +1,41 @@
+[
+  {
+    "launch_radius_rg": 8370,
+    "matlab_end_years": 5.763116,
+    "python_end_years": 5.819792927391805,
+    "python_termination_reason": "DISK_IMPACT",
+    "python_final_clearance_rg": 4.831690603168681e-13,
+    "matlab_sublimation_years": 1.763,
+    "python_sublimation_years": 1.732858751888366,
+    "dusty_max_position_difference_rg": 0.008965471782779205,
+    "dusty_max_velocity_difference_kms": 0.011002378454187842,
+    "dusty_comparison_samples": 224,
+    "runtime_seconds": 13.68
+  },
+  {
+    "launch_radius_rg": 22990,
+    "matlab_end_years": 33.617466,
+    "python_end_years": 33.592238307084926,
+    "python_termination_reason": "DISK_IMPACT",
+    "python_final_clearance_rg": 0.0,
+    "matlab_sublimation_years": null,
+    "python_sublimation_years": null,
+    "dusty_max_position_difference_rg": 1.0715422774507883,
+    "dusty_max_velocity_difference_kms": 0.10129407365662804,
+    "dusty_comparison_samples": 983,
+    "runtime_seconds": 19.19
+  },
+  {
+    "launch_radius_rg": 30860,
+    "matlab_end_years": 52.730011,
+    "python_end_years": 52.72685464915983,
+    "python_termination_reason": "DISK_IMPACT",
+    "python_final_clearance_rg": 0.0,
+    "matlab_sublimation_years": null,
+    "python_sublimation_years": null,
+    "dusty_max_position_difference_rg": 0.8361672472981974,
+    "dusty_max_velocity_difference_kms": 0.031391117492841125,
+    "dusty_comparison_samples": 992,
+    "runtime_seconds": 19.77
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "cases": [
+    {
+      "radius_rg": 8370.0,
+      "termination_reference": "DISK_IMPACT",
+      "termination_optimized": "DISK_IMPACT",
+      "flight_time_reference_years": 5.819792927391805,
+      "flight_time_optimized_years": 5.819792927159697,
+      "sublimation_reference_years": 1.732858751888366,
+      "sublimation_optimized_years": 1.732858751878313,
+      "max_position_difference_rg": 1.044018063112162e-06,
+      "reference_seconds": 12.484015108000222,
+      "optimized_seconds": 0.3461088280000695,
+      "speedup": 36.069623476918984
+    },
+    {
+      "radius_rg": 22990.0,
+      "termination_reference": "DISK_IMPACT",
+      "termination_optimized": "DISK_IMPACT",
+      "flight_time_reference_years": 33.592238307084926,
+      "flight_time_optimized_years": 33.59223829543363,
+      "sublimation_reference_years": null,
+      "sublimation_optimized_years": null,
+      "max_position_difference_rg": 4.17153842136031e-07,
+      "reference_seconds": 18.942151536999972,
+      "optimized_seconds": 0.6262510369997472,
+      "speedup": 30.24689847660503
+    }
+  ],
+  "all_termination_matches": true
+}

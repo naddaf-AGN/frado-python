@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use FRADO Python in research, please cite this software and the relevant FRADO model publications."
+title: "FRADO Python: 2.5D dusty-cloud dynamics in AGN broad-line regions"
+type: software
+authors:
+  - family-names: "Naddaf"
+    given-names: "Mohammad Hassan"
+    orcid: "https://orcid.org/0000-0002-7604-9594"
+repository-code: "https://github.com/naddaf-AGN/frado-python"
+version: "1.0.0"
+keywords:
+  - astrophysics
+  - active galactic nuclei
+  - broad-line region
+  - accretion disks
+  - dust-driven outflows
+  - numerical simulations

@@ -1,0 +1,13 @@
+{
+  "bh_mass_log": 7.0,
+  "mdot_log": -0.4,
+  "metallicity": 5.0,
+  "sublimation_temperature": 1500.0,
+  "patch_size": 3.0,
+  "initial_radius": 5000.0,
+  "final_radius": 10000.0,
+  "radius_step": 5000.0,
+  "maximum_orbits": 0.005,
+  "output_samples": 80,
+  "numerical_check": "off"
+}

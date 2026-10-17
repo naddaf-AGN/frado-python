@@ -1,0 +1,13 @@
+{
+  "termination_matches": true,
+  "sublimation_time_abs_seconds": 0.00031703710556030273,
+  "flight_time_abs_seconds": 0.007319748401641846,
+  "max_position_difference_rg": 1.044679265760351e-06,
+  "max_velocity_difference_rg_per_second": 2.0723874005756926e-14,
+  "speedup": 40.66000148833194,
+  "times_seconds": {
+    "scipy": 12.602632436000022,
+    "numba": 0.3099515980002252
+  },
+  "backend_notes": "both solve_ivp BDF; numba uses same adaptive QUADPACK with compiled integrands"
+}

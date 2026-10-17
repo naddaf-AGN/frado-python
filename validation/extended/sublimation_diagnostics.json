@@ -1,0 +1,56 @@
+[
+  {
+    "radius_rg": 8370,
+    "case": "baseline",
+    "threshold_relative_residual": -9.992007221626409e-16,
+    "acceleration_jump_residual_rg_s2": 5.048709793414476e-29,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.732858751888366,
+    "sublimation_radius_rg": 8740.378064120812
+  },
+  {
+    "radius_rg": 8370,
+    "case": "ode_only",
+    "threshold_relative_residual": 2.220446049250313e-16,
+    "acceleration_jump_residual_rg_s2": 2.0194839173657902e-28,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.7328589364663187,
+    "sublimation_radius_rg": 8740.376209681179
+  },
+  {
+    "radius_rg": 8370,
+    "case": "step_only",
+    "threshold_relative_residual": -9.992007221626409e-16,
+    "acceleration_jump_residual_rg_s2": 5.048709793414476e-29,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.732858751888366,
+    "sublimation_radius_rg": 8740.378064120812
+  },
+  {
+    "radius_rg": 8370,
+    "case": "tight_ode",
+    "threshold_relative_residual": 2.220446049250313e-16,
+    "acceleration_jump_residual_rg_s2": 2.0194839173657902e-28,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.7328589364663187,
+    "sublimation_radius_rg": 8740.376209681179
+  },
+  {
+    "radius_rg": 8370,
+    "case": "very_tight_ode",
+    "threshold_relative_residual": -1.1102230246251565e-15,
+    "acceleration_jump_residual_rg_s2": 0.0,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.7328588443131554,
+    "sublimation_radius_rg": 8740.375706409302
+  },
+  {
+    "radius_rg": 8370,
+    "case": "tighter_quadrature",
+    "threshold_relative_residual": -6.661338147750939e-16,
+    "acceleration_jump_residual_rg_s2": 0.0,
+    "dust_state_tags_consistent": true,
+    "sublimation_years": 1.7328587059850966,
+    "sublimation_radius_rg": 8740.378039384663
+  }
+]

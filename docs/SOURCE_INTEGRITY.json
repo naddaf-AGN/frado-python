@@ -1,0 +1,24 @@
+{
+  "software": "FRADO Python",
+  "version": "1.0.0",
+  "description": "SHA-256 hashes of Python source files distributed with this repository.",
+  "sha256": {
+    "frado/__init__.py": "96247f1f3ad2a299b1cdc52e9f69f427754b0e842fa00136f81a55213b720591",
+    "frado/config.py": "de21c082db71a8c20a51e21c95dd136ea2e16b28bdadcc46682d0a5792b260ca",
+    "frado/constants.py": "41efb4859b8a8ba039a3c940b18242852650055e57a026801f7adb14f8ca3ca3",
+    "frado/disk_geometry.py": "e369d1c2232899a546e82a001e370baa7c9f09cc4ec035a07772fdcaf2f7741d",
+    "frado/dust.py": "9ceba5ab70007e2e5851a8d86de69e95fd33f444caddd2c06febcc8c6b5a5444",
+    "frado/dynamics.py": "e8bfcd3cbffac35f49ec45dc92018c4d7abefbde9fd25dde8866f14d6591910d",
+    "frado/integrator.py": "22ae0bf05731aac8f90cd85d70e954e61c548b57d21497e71c67634c23ecbd5d",
+    "frado/launching.py": "bb15e48dbf7e4b37f8c756bcb3118d3f8c44f9b1de6cb9d492f5ebf5b11db016",
+    "frado/outputs.py": "a5c4aa92068c4c3a441749cae01bade80c1871966ce0b476e59d5d5b75d7f521",
+    "frado/radiation.py": "ba4cfd45c3713e058295fc00f863880edae2a16e00676778b3d5e5e8cb4805d0",
+    "frado/radiation_numba.py": "f19e97aa9f8f8c0afb80dfb1e1b15887c04538da713ff252a91bf5ab5d70e6b4",
+    "frado/reliability.py": "7bca897c9cb31aaddb74ed89fa3f354b689b43485db259e23a9aa92cc59fdd8d",
+    "frado/shielding.py": "d94bf16aba3fdd8eee3e432606fd78952e215aead39e5574ea2f068a7cf6df2b",
+    "frado/simulation.py": "e5d5980bbdbb3c85dc25269e76af0ae7ce33ea4c18a19db863c89cedf1654ae6",
+    "frado/termination.py": "0200345e176f1c6af09df9052fbbbbde3fe65d378e839e29892f403b3c6f44ab",
+    "frado/visualization.py": "a42a405fec54c9c622c1af031401a84e14c07b2779c7f4e7e9520862e557f259",
+    "run.py": "6583455b5cd9b011bee2fd22882143b3bdd27f2db26adfdbe0f9ada5f620f6cb"
+  }
+}

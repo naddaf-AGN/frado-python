@@ -1,0 +1,14 @@
+{
+  "bh_mass_log": 7.0,
+  "mdot_log": -0.4,
+  "metallicity": 5.0,
+  "patch_size": 3.0,
+  "initial_radius": 8370.0,
+  "final_radius": 8390.0,
+  "radius_step": 10.0,
+  "maximum_orbits": 1.25,
+  "output_samples": 1001,
+  "termination_mode": "disk_impact",
+  "numerical_check": "screen",
+  "radiation_backend": "numba"
+}
