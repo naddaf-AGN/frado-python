@@ -70,15 +70,37 @@ Each run writes `summary.csv`, `events.csv`, `launch_screening.csv`, `metadata.j
 
 Use a fresh output directory for each run; files in an existing output directory may be overwritten.
 
-## Scientific references
+## Scientific references and citation
 
-The physics of the 2.5D FRADO model and its applications are described in:
+### Foundational reference
 
-- **Naddaf, Czerny & Szczerba (2021)**, *ApJ*, **920**, 30 — 2.5D FRADO dynamics and geometry. [DOI: 10.3847/1538-4357/ac139d](https://doi.org/10.3847/1538-4357/ac139d).
-- **Naddaf & Czerny (2022)**, *A&A*, **663**, A77 — low-ionization emission-line modelling. [DOI: 10.1051/0004-6361/202142806](https://doi.org/10.1051/0004-6361/202142806).
-- **Naddaf et al. (2025)**, *A&A*, **702**, L13 — quasar main-sequence applications. [DOI: 10.1051/0004-6361/202556852](https://doi.org/10.1051/0004-6361/202556852).
+The physical framework, dynamics, and geometry of the 2.5D FRADO model are established in:
+- **Naddaf, Czerny & Szczerba (2021)**, ApJ, 920, 30 — The Picture of BLR in 2.5D FRADO: Dynamics and Geometry.
+  [DOI: 10.3847/1538-4357/ac139d](https://doi.org/10.3847/1538-4357/ac139d).
 
-Please cite **FRADO Python** using [`CITATION.cff`](CITATION.cff) together with the relevant model paper(s). The software release DOI will be added after Zenodo archiving.
+**Please cite this foundational paper whenever using FRADO Python.**
+
+### Additional scientific applications
+
+The following publications describe further applications of the FRADO framework and should be cited when relevant:
+
+- **Naddaf & Czerny (2022)**, A&A, 663, A77 — Low-ionization emission-line modelling.
+  [DOI: 10.1051/0004-6361/202142806](https://doi.org/10.1051/0004-6361/202142806).
+
+- **Naddaf et al. (2025)**, A&A, 702, A46 — Hβ line profiles and the broad-line region radius–luminosity relation.
+  [DOI: 10.1051/0004-6361/202555767](https://doi.org/10.1051/0004-6361/202555767).
+
+- **Naddaf et al. (2025)**, A&A, 702, L13 — Quasar main sequence: role of Eddington ratio, black hole mass, and inclination.
+  [DOI: 10.1051/0004-6361/202556852](https://doi.org/10.1051/0004-6361/202556852).
+
+### Software citation
+
+Please cite FRADO Python using the citation information provided in [CITATION.cff](CITATION.cff), together with
+the foundational 2021 paper.
+
+Additional scientific references should be cited as appropriate to the application.
+
+The software DOI will be provided upon its first official Zenodo release.
 
 ## Documentation
 
