@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/frado-logo.png" alt="FRADO Logo" width="350">
+  <img src="assets/frado_logo.png" alt="FRADO Logo" width="350">
 </div>
 
 # FRADO Python
