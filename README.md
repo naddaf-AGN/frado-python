@@ -31,7 +31,11 @@ python run.py --radius 8370 --bh-mass-log 7 --mdot-log -0.4 \
   --radiation-backend numba --output-dir OutPut/one_cloud
 ```
 
-**No local Python installation is necessary:** the [Google Colab instructions](docs/QUICKSTART.md) run the code in an online notebook.
+### Run FRADO online
+
+Run FRADO Python directly in Google Colab without installing Python on your computer.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/naddaf-AGN/frado-python/blob/main/examples/FRADO_Colab_Demo.ipynb)
 
 ## Parameters and numerical methods
 
