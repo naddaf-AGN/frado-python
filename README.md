@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/frado-logo.png" alt="FRADO Logo" width="350">
+</div>
+
 # FRADO Python
 
 **Version 1.0.0** · [Scientific validation](docs/VALIDATION.md) · [Google Colab quickstart](docs/QUICKSTART.md)
